@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: "https://author-p129417-e1884723.adobeaemcloud.com/bin/franklin.delivery/ksunil2021/commerce-poc/main"
+    type: "markup"
+    suffix: ".html"
